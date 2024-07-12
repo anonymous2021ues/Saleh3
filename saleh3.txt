@@ -1,0 +1,5 @@
+//profile-title: base64:44CY4oC0yrfhtYPKs+G1luKAt+OAmfCThILwk4aD
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=0
+//profile-web-page-url: https://github.com/mansor427
+warp://zSj471g3-y65B38cb-3tZF5k61/?ifp=5-10#warp-ir&&detour=warp://j1x3R42c-Qu046cT7-Bo8O56i4/?ifp=1-5#warp-main
